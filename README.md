@@ -11,7 +11,7 @@ A beginner-friendly Java application demonstrating Factory and Strategy design p
 ## Quick Start
 
 ### Prerequisites
-- Java 11+
+- Java 17+
 - Maven 3.6+
 
 ### Run the Application
